@@ -1,6 +1,8 @@
 name: Deploy Site
 on:
-  page_build
+  push:
+    branches:
+      - master
 
 jobs:
   perform-deploy:
