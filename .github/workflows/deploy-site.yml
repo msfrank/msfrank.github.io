@@ -10,8 +10,8 @@ jobs:
 
       - name: Install uv
         uses: astral-sh/setup-uv@v6
-          with:
-            enable-cache: true
+        with:
+          enable-cache: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,5 +26,5 @@ jobs:
 
       - name: Upload static content as artifact
         uses: actions/upload-pages-artifact@v3
-          with:
-            path: site/output/
+        with:
+          path: site/output/
