@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "apiVersion": "1.0"
+    },
+    "collection": {
+        "name": "std@zuri.dev",
+        "versions": {
+            "0.0.1": {
+                "uploadedAt": "2025-07-03T19:26:00.000Z",
+                "pruned": false
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "apiVersion": "1.0"
+    },
+    "package": {
+        "name": "std@zuri.dev",
+        "dependencies": {
+            "bar@foo.com": "1.0.1",
+            "baz@foo.com": "2.0.0",
+            "qux@foo.com": "3.0.2",
+        },
+        "url": "",
+        "uploadedAt": "2025-07-03T19:26:00.000Z",
+        "hash": {
+            "sha256": ""
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "apiVersion": "1.0"
+    },
+    "repository": {
+        "collections": {
+            "std@zuri.dev": {
+                "description": "Zuri standard library"
+            }
+        }
+    }
+}

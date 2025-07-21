@@ -3,6 +3,7 @@ SITENAME = 'msfrank.github.io'
 SITEURL = ""
 
 PATH = "content"
+STATIC_PATHS = ['images','.well-known','zuri-pkgs']
 
 TIMEZONE = 'America/Los_Angeles'
 
