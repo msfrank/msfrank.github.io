@@ -1,4 +1,6 @@
 name: Deploy Site
+on:
+  page_build
 
 jobs:
   perform-deploy:
