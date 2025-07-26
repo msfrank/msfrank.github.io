@@ -4,8 +4,8 @@
     },
     "repository": {
         "collections": {
-            "std@zuri.dev": {
-                "description": "Zuri standard library"
+            "test@msfrank.github.io": {
+                "description": "Test package collection"
             }
         }
     }

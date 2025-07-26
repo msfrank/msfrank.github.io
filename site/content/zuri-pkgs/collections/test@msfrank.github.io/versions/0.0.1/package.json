@@ -3,7 +3,7 @@
         "apiVersion": "1.0"
     },
     "package": {
-        "name": "std@zuri.dev",
+        "name": "test@msfrank.github.io",
         "dependencies": {
             "bar@foo.com": "1.0.1",
             "baz@foo.com": "2.0.0",
