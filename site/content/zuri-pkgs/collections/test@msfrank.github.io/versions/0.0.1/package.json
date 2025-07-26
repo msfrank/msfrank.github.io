@@ -9,10 +9,7 @@
             "baz@foo.com": "2.0.0",
             "qux@foo.com": "3.0.2",
         },
-        "url": "",
-        "uploadedAt": "2025-07-03T19:26:00.000Z",
-        "hash": {
-            "sha256": ""
-        }
+        "url": "https://msfrank.github.io/zuri-pkgs/cache/io.github.msfrank_test-0.0.1.zpk",
+        "uploadedAt": "2025-07-03T19:26:00.000Z"
     }
 }
